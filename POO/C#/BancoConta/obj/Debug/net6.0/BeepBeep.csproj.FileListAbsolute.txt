@@ -1,0 +1,15 @@
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\BancoConta\bin\Debug\net6.0\BeepBeep.exe
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\BancoConta\bin\Debug\net6.0\BeepBeep.deps.json
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\BancoConta\bin\Debug\net6.0\BeepBeep.runtimeconfig.json
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\BancoConta\bin\Debug\net6.0\BeepBeep.dll
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\BancoConta\bin\Debug\net6.0\BeepBeep.pdb
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\BancoConta\obj\Debug\net6.0\BeepBeep.csproj.AssemblyReference.cache
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\BancoConta\obj\Debug\net6.0\BeepBeep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\BancoConta\obj\Debug\net6.0\BeepBeep.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\BancoConta\obj\Debug\net6.0\BeepBeep.AssemblyInfo.cs
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\BancoConta\obj\Debug\net6.0\BeepBeep.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\BancoConta\obj\Debug\net6.0\BeepBeep.dll
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\BancoConta\obj\Debug\net6.0\refint\BeepBeep.dll
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\BancoConta\obj\Debug\net6.0\BeepBeep.pdb
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\BancoConta\obj\Debug\net6.0\BeepBeep.genruntimeconfig.cache
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\BancoConta\obj\Debug\net6.0\ref\BeepBeep.dll
