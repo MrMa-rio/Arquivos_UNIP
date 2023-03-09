@@ -1,11 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Linq.Expressions;
 using System.Windows.Forms;
 
 namespace HelloWorld
@@ -25,8 +21,6 @@ namespace HelloWorld
         private void button1_Click(object sender, EventArgs e)
         {
             showInput.Text = "";
-
-
 
         }
 
@@ -59,6 +53,7 @@ namespace HelloWorld
         private void button1_Click_1(object sender, EventArgs e)
         {
             showInput.Text += "1";
+
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -109,13 +104,15 @@ namespace HelloWorld
         private void buttonResult_Click(object sender, EventArgs e)
         {
 
-            showInput.Text = "Carregando...";
-
+            string expr = $"{showInput.Text}";
+            DataTable dt = new DataTable();
+            var result = dt.Compute(expr, "");
+            showInput.Text = result.ToString();
         }
 
         private void buttonBack_Click(object sender, EventArgs e)
         {
-           
+
         }
 
         private void showInput_TextChanged(object sender, EventArgs e)
@@ -136,6 +133,26 @@ namespace HelloWorld
 
                 //apaga o ultimo caracter.
             }
+        }
+
+        private void buttonMult_Click(object sender, EventArgs e)
+        {
+            showInput.Text += "*";
+        }
+
+        private void buttonSub_Click(object sender, EventArgs e)
+        {
+            showInput.Text += "-";
+        }
+
+        private void buttonDiv_Click(object sender, EventArgs e)
+        {
+            showInput.Text += "/";
+        }
+
+        private void buttonPoint_Click(object sender, EventArgs e)
+        {
+            showInput.Text += ".";
         }
     }
 }

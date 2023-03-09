@@ -135,6 +135,7 @@
             this.buttonSub.TabIndex = 9;
             this.buttonSub.Text = "-";
             this.buttonSub.UseVisualStyleBackColor = true;
+            this.buttonSub.Click += new System.EventHandler(this.buttonSub_Click);
             // 
             // buttonMult
             // 
@@ -145,6 +146,7 @@
             this.buttonMult.TabIndex = 10;
             this.buttonMult.Text = "*";
             this.buttonMult.UseVisualStyleBackColor = true;
+            this.buttonMult.Click += new System.EventHandler(this.buttonMult_Click);
             // 
             // buttonBack
             // 
@@ -178,6 +180,7 @@
             this.buttonDiv.TabIndex = 13;
             this.buttonDiv.Text = "/";
             this.buttonDiv.UseVisualStyleBackColor = true;
+            this.buttonDiv.Click += new System.EventHandler(this.buttonDiv_Click);
             // 
             // button2
             // 
@@ -254,19 +257,23 @@
             this.buttonPoint.TabIndex = 21;
             this.buttonPoint.Text = ".";
             this.buttonPoint.UseVisualStyleBackColor = true;
+            this.buttonPoint.Click += new System.EventHandler(this.buttonPoint_Click);
             // 
             // showInput
             // 
             this.showInput.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.showInput.Cursor = System.Windows.Forms.Cursors.IBeam;
             this.showInput.Font = new System.Drawing.Font("Microsoft Sans Serif", 25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.showInput.Location = new System.Drawing.Point(6, 13);
             this.showInput.MaximumSize = new System.Drawing.Size(271, 50);
             this.showInput.MaxLength = 300;
             this.showInput.MinimumSize = new System.Drawing.Size(271, 50);
             this.showInput.Name = "showInput";
-            this.showInput.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
-            this.showInput.Size = new System.Drawing.Size(271, 38);
+            this.showInput.ReadOnly = true;
+            this.showInput.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.showInput.Size = new System.Drawing.Size(271, 50);
             this.showInput.TabIndex = 22;
+            this.showInput.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.showInput.TextChanged += new System.EventHandler(this.showInput_TextChanged);
             // 
             // btnClick
@@ -299,7 +306,7 @@
             this.Name = "btnClick";
             this.Padding = new System.Windows.Forms.Padding(10);
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "CliqueAqui";
+            this.Text = "Calculadora";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
