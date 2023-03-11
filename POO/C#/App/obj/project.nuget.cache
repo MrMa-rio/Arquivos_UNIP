@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ovuIFjTmIgIKyFhZ1A/13dGwfoFADUs7k4t26PlM4n7SHh4AtZBhoOZ21Xa6GBa5sqUepMyVUMHZPu4KhKkMcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mario\\Documents\\GitHub\\Arquivos_UNIP\\POO\\C#\\App\\App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mario\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
