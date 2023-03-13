@@ -1,0 +1,17 @@
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\Folha_Pagamento\bin\Debug\net6.0-windows\Folha_Pagamento.exe
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\Folha_Pagamento\bin\Debug\net6.0-windows\Folha_Pagamento.deps.json
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\Folha_Pagamento\bin\Debug\net6.0-windows\Folha_Pagamento.runtimeconfig.json
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\Folha_Pagamento\bin\Debug\net6.0-windows\Folha_Pagamento.dll
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\Folha_Pagamento\bin\Debug\net6.0-windows\Folha_Pagamento.pdb
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\Folha_Pagamento\obj\Debug\net6.0-windows\Folha_Pagamento.csproj.AssemblyReference.cache
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\Folha_Pagamento\obj\Debug\net6.0-windows\Folha_Pagamento.Form1.resources
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\Folha_Pagamento\obj\Debug\net6.0-windows\Folha_Pagamento.csproj.GenerateResource.cache
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\Folha_Pagamento\obj\Debug\net6.0-windows\Folha_Pagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\Folha_Pagamento\obj\Debug\net6.0-windows\Folha_Pagamento.AssemblyInfoInputs.cache
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\Folha_Pagamento\obj\Debug\net6.0-windows\Folha_Pagamento.AssemblyInfo.cs
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\Folha_Pagamento\obj\Debug\net6.0-windows\Folha_Pagamento.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\Folha_Pagamento\obj\Debug\net6.0-windows\Folha_Pagamento.dll
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\Folha_Pagamento\obj\Debug\net6.0-windows\refint\Folha_Pagamento.dll
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\Folha_Pagamento\obj\Debug\net6.0-windows\Folha_Pagamento.pdb
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\Folha_Pagamento\obj\Debug\net6.0-windows\Folha_Pagamento.genruntimeconfig.cache
+C:\Users\Mario\Documents\GitHub\Arquivos_UNIP\POO\C#\Folha_Pagamento\obj\Debug\net6.0-windows\ref\Folha_Pagamento.dll
